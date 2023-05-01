@@ -6,7 +6,7 @@ metadata:
 spec:
   destination:
     namespace: echo-service
-    server: "https://192.168.2.43:51284"
+    server: "https://192.168.2.43:51341"
   project: default
   source:
     path: echo-service-mainfest
