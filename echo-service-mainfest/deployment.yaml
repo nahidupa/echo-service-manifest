@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: echo-service-container
-        image: registry.local:5000/echo-service:stable
+        image: nahidupa/echo-server:latest
         ports:
         - containerPort: 80
